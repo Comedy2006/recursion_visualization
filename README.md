@@ -5,7 +5,5 @@ Code visualizes the following:
 <li>Cantor Set</li>
 <li>Sierpinski Carpet</li>
 <li>Koch-Snowflake</li>
-
-
-
+<br>
 You can view the code in unit1.pas
